@@ -32,7 +32,7 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Conocimientos</h2> 
+<h2 align="center">Aprendizajes y Conocimientos</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -40,12 +40,18 @@
 </picture>
 <br />
 
-<h3 align="left">Aprendizaje Actual</h3>
+<h3 align="left">Aprendizajes Actuales</h3>
 <ul align="left">
   <li>Profundizando en características avanzadas de Angular, como la gestión del estado, la optimización del rendimiento y la creación de aplicaciones escalables.</li>
   <li>Aprendiendo a construir aplicaciones móviles multiplataforma utilizando IONIC y Angular o React</li>
-  <li>Estudiando técnicas y herramientas para mejorar el rendimiento de las aplicaciones web.</li>
   <li>Ampliando mis conocimientos en el backend con Node.js, centrándote en la creación de APIs RESTful y la gestión de bases de datos</li>
+</ul>
+
+<h3 align="left">Conocimientos</h3>
+<ul align="left">
+  <li><b>Desarrollo Web:</b> Conocimiento en HTML, CSS y Angular para crear interfaces interactivas.</li>
+  <li><b>Lenguajes de Programación:</b> Experiencia en PHP, Java y Node.js para el desarrollo del lado del servidor.</li>
+  <li><b>Bases de Datos:</b> Competencia en MySQL,FireBase, MongoDB y SQLServer para la gestión y manipulación de datos.</li>
 </ul>
   
 <br />
