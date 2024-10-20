@@ -1,5 +1,7 @@
 <!--Banner-->
-![Axel-Vargas Banner Image](./Banner.png)
+<div style="text-align: center;">
+    <img src="./Banner.png" alt="Axel-Vargas Banner Image">
+</div>
 
 <!--Night Owl image-->
 <div>
