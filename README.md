@@ -42,9 +42,9 @@
 
 <h3 align="left">Aprendizajes Actuales</h3>
 <ul align="left">
-  <li>Profundizando en características avanzadas de Angular, como la gestión del estado, la optimización del rendimiento y la creación de aplicaciones escalables.</li>
+  <li>Profundizando en características avanzadas de Angular como la gestión del estado y la creación de aplicaciones escalables.</li>
   <li>Aprendiendo a construir aplicaciones móviles multiplataforma utilizando IONIC y Angular o React</li>
-  <li>Ampliando mis conocimientos en el backend con Node.js, centrándote en la creación de APIs RESTful y la gestión de bases de datos</li>
+  <li>Ampliando mis conocimientos en el backend con Node.js</li>
 </ul>
 
 <h3 align="left">Conocimientos</h3>
