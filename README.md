@@ -16,7 +16,7 @@
 
 - ✨ Estudiante de la vida :)
 - 🌱 Actualmente me encuentro estudiando y creo que cada día es una oportunidad de aprendizaje.
-- ❤ Contributing to Open Source.
+- ❤ Contribuyendo al código abierto.
 - 💻 Visita mi [Portafolio](https://kiran1689.github.io) para obtener más detalles sobre mi.
 <!--End Intro-->
 
@@ -42,6 +42,7 @@
   <li>Profundizando en características avanzadas de Angular, como la gestión del estado, la optimización del rendimiento y la creación de aplicaciones escalables.</li>
   <li>Aprendiendo a construir aplicaciones móviles multiplataforma utilizando IONIC y Angular o React</li>
   <li>Estudiando técnicas y herramientas para mejorar el rendimiento de las aplicaciones web.</li>
+  <li>Ampliando mis conocimientos en el backend con Node.js, centrándote en la creación de APIs RESTful y la gestión de bases de datos</li>
 </ul>
   
 <br />
@@ -53,7 +54,7 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Trofeos de Github 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Kiran1689">
+  <a href="https://github.com/Axel-Vargas">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Axel-Vargas&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Axel-Vargas&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
@@ -69,7 +70,7 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Estadisticas de Github</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=Axel-Vargas&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
@@ -77,7 +78,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Estadísticas de Racha</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
           <img align="center" src="https://streak-stats.demolab.com?user=Axel-Vargas&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
@@ -87,15 +88,15 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Último Proyecto</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Axel-Vargas&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/Axel-Vargas/Ecommerce">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Axel-Vargas&repo=Ecommerce&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Contribuciones Principales</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Axel-Vargas&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
@@ -115,7 +116,7 @@
 ---
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">🌟 Pensamiento del Dia 🌟</h2>
 
 
 
@@ -374,18 +375,18 @@
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Contactate conmigo 🤝 </h2>
+<h2 align="center">🤝 Contáctate conmigo 🤝 </h2>
 <div align="center">
   
 <a href="mailto:axelvargasvilla77@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="axelvargasvilla77@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<a href="https://www.instagram.com/axel_17094" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Kiran1689" target="_blank">
+<a href="https://www.githubcom/Axel-Vargas" target="_blank">
 <img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
 </a>
 
@@ -393,9 +394,6 @@
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
 </div>
 <br/>
 
