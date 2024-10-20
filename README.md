@@ -1,6 +1,6 @@
 <!--Banner-->
 <div style="text-align: center;width:100%">
-    <img src="./Banner.png" alt="Axel-Vargas Banner Image">
+    <img src="./Banner.png" alt="Axel-Vargas Banner Image" style="width💯">
 </div>
 <br>
 
