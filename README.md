@@ -20,7 +20,7 @@
 - ✨ Estudiante de la vida :)
 - 🌱 Actualmente me encuentro estudiando y creo que cada día es una oportunidad de aprendizaje.
 - ❤ Contribuyendo al código abierto.
-- 💻 Visita mi [Portafolio](https://kiran1689.github.io) para obtener más detalles sobre mi.
+- 💻 Visita mi [Portafolio](https://portafolio-4nf7zx3e6-quantumsoft2024s-projects.vercel.app) para obtener más detalles sobre mi.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
