@@ -253,6 +253,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
+    https://magicloops.dev/loop/91e20edd-20c4-461d-aa11-7521d1ae34da/runs
     <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=We%20need%20a%20backbone%2C%20not%20a%20wishbone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
